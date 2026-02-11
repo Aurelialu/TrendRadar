@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-11T21:19:57.985818+08:00",
-  "total_titles_processed": 1603,
+  "generated_at": "2026-02-11T22:58:16.146007+08:00",
+  "total_titles_processed": 1735,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 60,
       "titles": [
+        {
+          "title": "特朗普：伊朗希望达成协议，不然太蠢了",
+          "url": "https://news.ifeng.com/c/8qf0rfTG2o3",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时03分 ~ 22时58分]"
+        },
         {
           "title": "特朗普又翻脸了，中国再躺枪",
           "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
@@ -41,17 +52,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时55分 ~ 16时59分]"
-        },
-        {
-          "title": "特朗普：伊朗希望达成协议，不然太蠢了",
-          "url": "https://news.ifeng.com/c/8qf0rfTG2o3",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时03分 ~ 21时19分]"
         },
         {
           "title": "外交部回应特朗普涉中加合作言论",
@@ -254,6 +254,19 @@
           "time_info": "[10时55分 ~ 15时12分]"
         },
         {
+          "title": "特朗普在爱泼斯坦案文件出现100万次",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E5%87%BA%E7%8E%B0100%E4%B8%87%E6%AC%A1",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时50分 ~ 22时58分]"
+        },
+        {
           "title": "特朗普放话：若美伊谈判无果 或向中东增派航母打击群",
           "url": "https://www.cls.cn/detail/2286509",
           "source": "财联社热门",
@@ -445,16 +458,15 @@
           "time_info": "[03时16分 ~ 04时54分]"
         },
         {
-          "title": "特朗普在爱泼斯坦案文件出现100万次",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E5%87%BA%E7%8E%B0100%E4%B8%87%E6%AC%A1",
-          "source": "百度热搜",
+          "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
+          "url": "https://www.zhihu.com/question/2004862099634016476",
+          "source": "知乎",
           "ranks": [
-            24,
-            25
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时50分 ~ 21时19分]"
+          "time_info": "[22时57分 ~ 22时58分]"
         },
         {
           "title": "特朗普：或向中东再派一支航母打击群",
@@ -474,7 +486,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -584,7 +596,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -683,7 +695,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         }
@@ -691,7 +703,7 @@
     },
     {
       "keyword_group": "爆",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "海外已夸爆Seedance2.0",
@@ -716,11 +728,12 @@
             17,
             21,
             26,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时08分 ~ 19时50分]"
+          "appearance_count": 10,
+          "time_info": "[13时08分 ~ 22时58分]"
         },
         {
           "title": "美国指责中国开展核爆炸试验，外交部驳斥",
@@ -729,11 +742,55 @@
           "ranks": [
             9,
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时59分 ~ 21时19分]"
+          "appearance_count": 8,
+          "time_info": "[16时59分 ~ 22时58分]"
+        },
+        {
+          "title": "美国无端指责中国开展核爆炸试验，外交部驳斥",
+          "url": "https://news.ifeng.com/c/8qet1tlIjJ7",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时50分 ~ 22时58分]"
+        },
+        {
+          "title": "李信首款无双皮肤爆料",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E4%BF%A1%E9%A6%96%E6%AC%BE%E6%97%A0%E5%8F%8C%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            12,
+            13,
+            18,
+            26,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时12分 ~ 22时58分]"
+        },
+        {
+          "title": "2026我的爆红穿搭攻略",
+          "url": "https://www.douyin.com/hot/2396802",
+          "source": "抖音",
+          "ranks": [
+            13,
+            10,
+            11,
+            12,
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时59分 ~ 22时58分]"
         },
         {
           "title": "Seedance2.0爆火出圈 被称“颠覆行业”",
@@ -750,17 +807,6 @@
           "time_info": "[01时11分 ~ 07时45分]"
         },
         {
-          "title": "美国无端指责中国开展核爆炸试验，外交部驳斥",
-          "url": "https://news.ifeng.com/c/8qet1tlIjJ7",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时50分 ~ 21时19分]"
-        },
-        {
           "title": "外交部回应美指控中方开展核爆炸试验",
           "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%8C%87%E6%8E%A7%E4%B8%AD%E6%96%B9%E5%BC%80%E5%B1%95%E6%A0%B8%E7%88%86%E7%82%B8%E8%AF%95%E9%AA%8C",
           "source": "百度热搜",
@@ -775,19 +821,19 @@
           "time_info": "[16时59分 ~ 21时19分]"
         },
         {
-          "title": "李信首款无双皮肤爆料",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E4%BF%A1%E9%A6%96%E6%AC%BE%E6%97%A0%E5%8F%8C%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
+          "title": "王者花木兰情限皮肤爆料",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E8%8A%B1%E6%9C%A8%E5%85%B0%E6%83%85%E9%99%90%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
           "source": "bilibili 热搜",
           "ranks": [
             11,
-            12,
-            13,
-            18,
+            15,
+            27,
+            24,
             26
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[15时12分 ~ 21时19分]"
+          "time_info": "[18时03分 ~ 22时58分]"
         },
         {
           "title": "停产12年的奇瑞QQ复活后爆火",
@@ -801,21 +847,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时45分 ~ 16时59分]"
-        },
-        {
-          "title": "2026我的爆红穿搭攻略",
-          "url": "https://www.douyin.com/hot/2396802",
-          "source": "抖音",
-          "ranks": [
-            13,
-            10,
-            11,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时59分 ~ 21时19分]"
         },
         {
           "title": "活塞黄蜂爆发大规模冲突",
@@ -870,18 +901,17 @@
           "time_info": "[15时12分 ~ 18时04分]"
         },
         {
-          "title": "王者花木兰情限皮肤爆料",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E8%8A%B1%E6%9C%A8%E5%85%B0%E6%83%85%E9%99%90%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
+          "title": "王者安琪拉典藏皮肤爆料",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E5%AE%89%E7%90%AA%E6%8B%89%E5%85%B8%E8%97%8F%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
           "source": "bilibili 热搜",
           "ranks": [
             11,
-            15,
-            27,
-            24
+            12,
+            13
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[18时03分 ~ 21时19分]"
+          "time_info": "[18时52分 ~ 22时58分]"
         },
         {
           "title": "爆肝100小时解读华晨宇",
@@ -899,19 +929,6 @@
         },
         {
           "title": "王者安琪拉典藏皮肤爆料",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%80%85%E5%AE%89%E7%90%AA%E6%8B%89%E5%85%B8%E8%97%8F%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时52分 ~ 21时19分]"
-        },
-        {
-          "title": "王者安琪拉典藏皮肤爆料",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E5%AE%89%E7%90%AA%E6%8B%89%E5%85%B8%E8%97%8F%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
           "ranks": [
@@ -922,6 +939,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时52分 ~ 21时19分]"
+        },
+        {
+          "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32582057",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时19分 ~ 22时58分]"
         },
         {
           "title": "奇瑞QQ再爆火一次的胜算有多大",
@@ -959,6 +988,28 @@
           "time_info": "[04时54分 ~ 05时52分]"
         },
         {
+          "title": "羽绒服充绒爆单？店家：订单排到年后",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%85%85%E7%BB%92%E7%88%86%E5%8D%95%EF%BC%9F%E5%BA%97%E5%AE%B6%EF%BC%9A%E8%AE%A2%E5%8D%95%E6%8E%92%E5%88%B0%E5%B9%B4%E5%90%8E",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 22时58分]"
+        },
+        {
+          "title": "白宫经济顾问委员会（CEA）代理主席Yared：（美国1月非农）就业报告爆发，私人就业报告超过预期。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3053796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "美国最大风投押注“AI伴侣”赛道 AI应用有望在陪伴场景率先爆发",
           "url": "https://www.cls.cn/detail/2286560",
           "source": "财联社热门",
@@ -979,17 +1030,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
-        },
-        {
-          "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32582057",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
         },
         {
           "title": "泰国军方表示，西萨菊府（泰国东北部）发生地雷爆炸事件，致一名士兵受伤。",
@@ -1017,7 +1057,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
@@ -1029,8 +1069,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时55分 ~ 21时19分]"
+          "appearance_count": 12,
+          "time_info": "[10时55分 ~ 22时58分]"
+        },
+        {
+          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3765455",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时08分 ~ 22时58分]"
         },
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -1056,19 +1109,6 @@
           "time_info": "[01时11分 ~ 06时51分]"
         },
         {
-          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3765455",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时08分 ~ 21时19分]"
-        },
-        {
           "title": "美股收盘：三大指数涨跌不一 道指续创历史新高",
           "url": "https://www.cls.cn/detail/2286520",
           "source": "财联社热门",
@@ -1082,6 +1122,18 @@
           "time_info": "[07时45分 ~ 15时12分]"
         },
         {
+          "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
+          "url": "https://www.zhihu.com/question/2004662806780338439",
+          "source": "知乎",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时52分 ~ 22时58分]"
+        },
+        {
           "title": "美泰（Mattel）美股盘后跌幅扩大至21%。",
           "url": "https://wallstreetcn.com/livenews/3053261",
           "source": "华尔街见闻-快讯",
@@ -1091,18 +1143,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
-        },
-        {
-          "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
-          "url": "https://www.zhihu.com/question/2004662806780338439",
-          "source": "知乎",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时52分 ~ 21时19分]"
         },
         {
           "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
@@ -1199,13 +1239,24 @@
           "time_info": "[05时52分 ~ 06时51分]"
         },
         {
+          "title": "1月非农大超预期 美股高开",
+          "url": "https://flash.jin10.com/detail/20260211223022292800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "T-Mobile第四季度总净新增用户244万，同比增长20%，市场预期199万。 第四季度每股收益1.88美元，去年同期2.57美元，市场预期2.03美元。 第四季度营收243.3亿美元，同比增长11%，市场预期242亿美元。 第四季度后付费净新增用户238万，同比增长23%，市场预期192万。 T-Mobile美股盘前跌超1%。",
           "url": "https://wallstreetcn.com/livenews/3053749",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -1216,7 +1267,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -1254,13 +1305,24 @@
           "time_info": "06时51分"
         },
         {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3053787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "Shopify第四季度营收为36.7亿美元，市场预期35.9亿美元。 第四季度月度经常性收入为2.05亿美元，同比增长15%，市场预期为2.012亿美元。 第四季度订阅收入为7.77亿美元，市场预期为7.661亿美元。 第四季度营业利润为6.31亿美元，市场预期为5.771亿美元。 Shopify已批准最高20亿美元的股票回购计划。 Shopify美股盘前涨超8%。",
           "url": "https://wallstreetcn.com/livenews/3053732",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时19分"
         },
@@ -1274,6 +1336,212 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
+        },
+        {
+          "title": "美国非农数据公布后，美股期货短线拉升",
+          "url": "https://wallstreetcn.com/livenews/3053777",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "计算机 就业",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "百万就业大军将凭空“蒸发”？今晚美国非农“年度大修”万众瞩目",
+          "url": "https://www.cls.cn/detail/2287005",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时59分 ~ 21时19分]"
+        },
+        {
+          "title": "美国1月非农新增就业13万人，创去年4月以来最大增幅，失业率降至4.3%，年度非农下修86.2万！",
+          "url": "https://wallstreetcn.com/articles/3765528",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 22时58分]"
+        },
+        {
+          "title": "美联储哈玛克：就业市场已稳定在“低招聘、低裁员”的状态。",
+          "url": "https://flash.jin10.com/detail/20260211010214260800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时11分"
+        },
+        {
+          "title": "分析师：就业市场走弱趋势已明 非农数据或逐渐反映这一现实",
+          "url": "https://flash.jin10.com/detail/20260211192458239800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
+        {
+          "title": "美国1月非农就业报告要点总结",
+          "url": "https://wallstreetcn.com/livenews/3053804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "“新美联储通讯社”Nick Timiraos：美国1月非农就业报告坐实了美联储将延长利率维持不变的“停滞期”。 鲍威尔在1月28日表示：“经济再一次以其强劲表现让我们感到意外——这已经不是第一次了。” 目前市场注意力已转向CPI（消费者价格指数）中“年初价格重置（Turn-of-the-year price resets）”的影响。",
+          "url": "https://wallstreetcn.com/livenews/3053794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "Principal资产管理分析师Seema Shah：在退休、移民动态变化和人工智能驱动的生产力提高等强大的结构性因素抑制就业增长的背景下，非农数据表明劳动力市场依然稳固。",
+          "url": "https://flash.jin10.com/detail/20260211220820282800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "美国1月非农就业数据超预期 交易员推迟降息预期",
+          "url": "https://wallstreetcn.com/livenews/3053782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "非农前瞻：美国1月非农数据或温和增长 但就业市场“纸面火热，实则僵化”",
+          "url": "https://flash.jin10.com/detail/20260211203910489800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时19分"
+        },
+        {
+          "title": "法国外贸银行：非农就业增长仍然集中在私立教育和医疗保健服务行业，14个行业中只有一半实现了增长。这值得深思。",
+          "url": "https://flash.jin10.com/detail/20260211220517738800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "美国非农就业年度基准下修86.2万，预计减少82.5万。",
+          "url": "https://wallstreetcn.com/livenews/3053781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "美国11月和12月非农就业人数合计下修1.7万人",
+          "url": "https://wallstreetcn.com/livenews/3053778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "白宫经济顾问委员会代理主席雅里德：就业报告表现强劲，私营部门就业超出预期。",
+          "url": "https://flash.jin10.com/detail/20260211220403871800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "美国1月制造业就业人口变动 0.5万人，预期 -0.7万人，前值 -0.8万人。",
+          "url": "https://wallstreetcn.com/livenews/3053776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "受非农就业数据超预期提振，欧洲股市延续涨势。",
+          "url": "https://flash.jin10.com/detail/20260211220245369800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "美国1月私营部门就业人口变动 17.2万人，预期 6.8万人，前值 3.7万人。",
+          "url": "https://wallstreetcn.com/livenews/3053774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "美国商务部长卢特尼克：预计四季度GDP增速将超过5%。 2026年制造业就业将出现“巨大”增长。 其他国家持有的美国资产比我们持有的其他国家资产多出26万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3053147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时11分"
         }
       ]
     },
@@ -1289,11 +1557,12 @@
             12,
             10,
             11,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时08分 ~ 21时19分]"
+          "appearance_count": 11,
+          "time_info": "[13时08分 ~ 22时58分]"
         },
         {
           "title": "零售数据疲软重燃降息预期 金价重回5050美元上方",
@@ -1354,71 +1623,8 @@
       ]
     },
     {
-      "keyword_group": "计算机 就业",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "百万就业大军将凭空“蒸发”？今晚美国非农“年度大修”万众瞩目",
-          "url": "https://www.cls.cn/detail/2287005",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时59分 ~ 21时19分]"
-        },
-        {
-          "title": "美联储哈玛克：就业市场已稳定在“低招聘、低裁员”的状态。",
-          "url": "https://flash.jin10.com/detail/20260211010214260800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "分析师：就业市场走弱趋势已明 非农数据或逐渐反映这一现实",
-          "url": "https://flash.jin10.com/detail/20260211192458239800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
-          "title": "非农前瞻：美国1月非农数据或温和增长 但就业市场“纸面火热，实则僵化”",
-          "url": "https://flash.jin10.com/detail/20260211203910489800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "美国商务部长卢特尼克：预计四季度GDP增速将超过5%。 2026年制造业就业将出现“巨大”增长。 其他国家持有的美国资产比我们持有的其他国家资产多出26万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3053147",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "30年期美债收益率跌超7.4个基点",
@@ -1445,6 +1651,17 @@
           "time_info": "[04时54分 ~ 05时52分]"
         },
         {
+          "title": "非农就业意外强劲，美股指期货短线拉升，美元指数走高，美债承压，黄金一度突破5100美元大关",
+          "url": "https://wallstreetcn.com/articles/3765486",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 22时58分]"
+        },
+        {
           "title": "道明证券：大多数外国投资者并未承认自己在卖出美债",
           "url": "https://wallstreetcn.com/livenews/3053272",
           "source": "华尔街见闻-快讯",
@@ -1467,6 +1684,81 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时51分 ~ 07时45分]"
+        },
+        {
+          "title": "BMO：非农数据推高美债收益率 为即将到来的额美债拍卖带来难题",
+          "url": "https://flash.jin10.com/detail/20260211221035489800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "UP主实测DeepSeek新模型",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BDeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 22时58分]"
+        },
+        {
+          "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
+          "url": "https://www.zhihu.com/question/2004971546536585165",
+          "source": "知乎",
+          "ranks": [
+            15,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时50分 ~ 22时58分]"
+        },
+        {
+          "title": "DeepSeek模型更新！上下文提升至百万Token 可处理三体小说全集",
+          "url": "https://www.cls.cn/detail/2287578",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 22时58分]"
+        },
+        {
+          "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
+          "url": "https://wallstreetcn.com/articles/3765457",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时19分 ~ 22时58分]"
+        },
+        {
+          "title": "DeepSeek低调升级新模型",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 22时58分]"
         }
       ]
     },
@@ -1519,35 +1811,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
-          "url": "https://www.zhihu.com/question/2004971546536585165",
-          "source": "知乎",
-          "ranks": [
-            15,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时50分 ~ 21时19分]"
-        },
-        {
-          "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
-          "url": "https://wallstreetcn.com/articles/3765457",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
         }
       ]
     },
