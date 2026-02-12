@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T19:44:15.521961+08:00",
-  "total_titles_processed": 1603,
+  "generated_at": "2026-02-12T21:17:31.339889+08:00",
+  "total_titles_processed": 1735,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,17 @@
           "time_info": "[00时10分 ~ 07时37分]"
         },
         {
+          "title": "特朗普将于4月初访华？外交部回应",
+          "url": "https://news.ifeng.com/c/8qgc1cfon19",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时54分 ~ 21时17分]"
+        },
+        {
           "title": "油价日内涨超2%，报道：特朗普私下考虑退出《美墨加协定》",
           "url": "https://wallstreetcn.com/articles/3765521",
           "source": "华尔街见闻",
@@ -30,31 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时59分 ~ 19时44分]"
-        },
-        {
-          "title": "特朗普将于4月初访华？外交部回应",
-          "url": "https://news.ifeng.com/c/8qgc1cfon19",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时54分 ~ 19时44分]"
-        },
-        {
-          "title": "中方回应特朗普或将4月访华",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时54分 ~ 19时44分]"
+          "appearance_count": 18,
+          "time_info": "[01时59分 ~ 21时17分]"
         },
         {
           "title": "特朗普否认了，仅拒邀两人",
@@ -70,6 +58,19 @@
           "time_info": "[15时06分 ~ 19时44分]"
         },
         {
+          "title": "中方回应特朗普或将4月访华",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时54分 ~ 21时17分]"
+        },
+        {
           "title": "外交部：中美元首通话中，特朗普总统再次表达了4月访华的愿望",
           "url": "https://www.cls.cn/detail/2288372",
           "source": "财联社热门",
@@ -79,8 +80,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时54分 ~ 19时44分]"
+          "appearance_count": 7,
+          "time_info": "[16时54分 ~ 21时17分]"
         },
         {
           "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
@@ -92,8 +93,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时01分 ~ 19时44分]"
+          "appearance_count": 10,
+          "time_info": "[13时01分 ~ 21时17分]"
         },
         {
           "title": "春节前，中国工厂忙赶工，“仿佛特朗普关税不存在”",
@@ -103,8 +104,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时52分 ~ 19时44分]"
+          "appearance_count": 5,
+          "time_info": "[18时52分 ~ 21时17分]"
         },
         {
           "title": "多名共和党议员“倒戈”！美众议院投票否决特朗普对加拿大征收关税",
@@ -144,6 +145,33 @@
           "time_info": "[00时10分 ~ 07时37分]"
         },
         {
+          "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32591772",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时56分 ~ 21时17分]"
+        },
+        {
+          "title": "中方回应特朗普或将4月访华",
+          "url": "https://www.douyin.com/hot/2398243",
+          "source": "抖音",
+          "ranks": [
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时54分 ~ 21时17分]"
+        },
+        {
           "title": "中方回应特朗普预计4月初访华",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E9%A2%84%E8%AE%A14%E6%9C%88%E5%88%9D%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -167,16 +195,16 @@
           "time_info": "07时37分"
         },
         {
-          "title": "中方回应特朗普或将4月访华",
-          "url": "https://www.douyin.com/hot/2398243",
-          "source": "抖音",
+          "title": "中方回应“特朗普将于4月初访华”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%BA%8E4%E6%9C%88%E5%88%9D%E8%AE%BF%E5%8D%8E%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
             10,
-            11
+            13
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[16时54分 ~ 19时44分]"
+          "time_info": "[17时56分 ~ 21时17分]"
         },
         {
           "title": "特朗普发帖后 CNN都看不下去了",
@@ -240,34 +268,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
-        },
-        {
-          "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32591772",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时56分 ~ 19时44分]"
-        },
-        {
-          "title": "中方回应“特朗普将于4月初访华”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%BA%8E4%E6%9C%88%E5%88%9D%E8%AE%BF%E5%8D%8E%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时56分 ~ 19时44分]"
         },
         {
           "title": "美国能源部长Wright：总统特朗普在委内瑞拉关系转型方面恪守承诺。",
@@ -507,7 +510,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
         },
@@ -790,7 +793,7 @@
     },
     {
       "keyword_group": "爆",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "美国无端指责中国开展核爆炸试验，外交部驳斥",
@@ -812,8 +815,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时54分 ~ 19时44分]"
+          "appearance_count": 7,
+          "time_info": "[16时54分 ~ 21时17分]"
         },
         {
           "title": "2026我的爆红穿搭攻略",
@@ -846,8 +849,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时37分 ~ 19时44分]"
+          "appearance_count": 12,
+          "time_info": "[07时37分 ~ 21时17分]"
         },
         {
           "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
@@ -940,6 +943,18 @@
           "time_info": "[10时35分 ~ 15时06分]"
         },
         {
+          "title": "【数据看盘】北向资金联手游资“爆买”利欧股份，多家机构抢筹液冷人气股",
+          "url": "https://www.cls.cn/detail/2288598",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时52分 ~ 21时17分]"
+        },
+        {
           "title": "1200年古树着火系两小孩扔爆竹导致",
           "url": "https://www.baidu.com/s?wd=1200%E5%B9%B4%E5%8F%A4%E6%A0%91%E7%9D%80%E7%81%AB%E7%B3%BB%E4%B8%A4%E5%B0%8F%E5%AD%A9%E6%89%94%E7%88%86%E7%AB%B9%E5%AF%BC%E8%87%B4",
           "source": "百度热搜",
@@ -963,17 +978,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时01分 ~ 17时56分]"
-        },
-        {
-          "title": "【数据看盘】北向资金联手游资“爆买”利欧股份，多家机构抢筹液冷人气股",
-          "url": "https://www.cls.cn/detail/2288598",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时52分 ~ 19时44分]"
         },
         {
           "title": "羽绒服充绒爆单？店家：订单排到年后",
@@ -1015,6 +1019,18 @@
           "time_info": "[13时01分 ~ 17时56分]"
         },
         {
+          "title": "马年爆火宠物小矮马最高售价超10万",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%B9%B4%E7%88%86%E7%81%AB%E5%AE%A0%E7%89%A9%E5%B0%8F%E7%9F%AE%E9%A9%AC%E6%9C%80%E9%AB%98%E5%94%AE%E4%BB%B7%E8%B6%8510%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时43分 ~ 21时17分]"
+        },
+        {
           "title": "美国指责中国开展核爆炸试验，外交部驳斥",
           "url": "https://www.cls.cn/detail/2287126",
           "source": "财联社热门",
@@ -1049,15 +1065,15 @@
           "time_info": "[18时52分 ~ 18时53分]"
         },
         {
-          "title": "马年爆火宠物小矮马最高售价超10万",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%B9%B4%E7%88%86%E7%81%AB%E5%AE%A0%E7%89%A9%E5%B0%8F%E7%9F%AE%E9%A9%AC%E6%9C%80%E9%AB%98%E5%94%AE%E4%BB%B7%E8%B6%8510%E4%B8%87",
-          "source": "百度热搜",
+          "title": "中国大模型“春节档”打响！等待消费级AI出“爆款”",
+          "url": "https://wallstreetcn.com/articles/3765558",
+          "source": "华尔街见闻",
           "ranks": [
-            23
+            10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时43分 ~ 19时44分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
         },
         {
           "title": "AI基础设施需求爆发 思科上调业绩预期",
@@ -1080,6 +1096,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
+        },
+        {
+          "title": "生命树今晚自爆两狼",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%9F%E5%91%BD%E6%A0%91%E4%BB%8A%E6%99%9A%E8%87%AA%E7%88%86%E4%B8%A4%E7%8B%BC&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
         }
       ]
     },
@@ -1096,8 +1123,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时53分 ~ 19时44分]"
+          "appearance_count": 13,
+          "time_info": "[06时53分 ~ 21时17分]"
         },
         {
           "title": "美国1月非农新增就业13万人，创去年4月以来最大增幅，失业率降至4.3%，25年3月非农下修86.2万！",
@@ -1121,8 +1148,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时01分 ~ 19时44分]"
+          "appearance_count": 10,
+          "time_info": "[13时01分 ~ 21时17分]"
         },
         {
           "title": "美国财长贝森特：非农就业数据超过预期。",
@@ -1318,7 +1345,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
@@ -1413,11 +1440,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时52分 ~ 19时44分]"
+          "appearance_count": 5,
+          "time_info": "[18时52分 ~ 21时17分]"
         },
         {
           "title": "Peabody Energy美股盘后涨7%，此前特朗普兜售美国煤炭。",
@@ -1452,6 +1480,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
+        },
+        {
+          "title": "存储概念股盘前延续涨势 美股三大期指小幅走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2288812",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
         },
         {
           "title": "周三（2月11日）美股尾盘，彭博电动汽车价格回报指数涨1.32%，报3662.78点。 北京时间09:25出现一波快速上涨行情，10:15过后持续高位震荡。 成分股智利化工矿业公司（SQM）涨7.1%，美国雅宝涨4.3%，小米集团H股收涨4.27%，意法半导体欧股收涨2.92%，禾赛科技则跌6.2%，Lucid集团跌8.3%。",
@@ -1553,18 +1592,6 @@
           "time_info": "[00时10分 ~ 10时35分]"
         },
         {
-          "title": "DeepSeek低调升级新模型",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时10分 ~ 19时44分]"
-        },
-        {
           "title": "DeepSeek新模型来了？",
           "url": "https://wallstreetcn.com/articles/3765514",
           "source": "华尔街见闻",
@@ -1577,6 +1604,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[06时53分 ~ 18时53分]"
+        },
+        {
+          "title": "DeepSeek低调升级新模型",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时10分 ~ 21时17分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
@@ -1628,8 +1668,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时37分 ~ 19时44分]"
+          "appearance_count": 12,
+          "time_info": "[07时37分 ~ 21时17分]"
         },
         {
           "title": "强劲非农打击降息预期，软件股抛售潮拖累美股指，美债承压，黄金涨幅收窄",
@@ -1747,6 +1787,36 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "一次性出手8公斤金条！金价高位震荡，千万元级套现频频",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32581000",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 07时37分]"
+        },
+        {
+          "title": "现在金价这么高，把「三金」卖了，以后金价跌了再买合适吗？",
+          "url": "https://www.zhihu.com/question/1964981998281036870",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -1771,25 +1841,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "一次性出手8公斤金条！金价高位震荡，千万元级套现频频",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32581000",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 07时37分]"
         }
       ]
     },
