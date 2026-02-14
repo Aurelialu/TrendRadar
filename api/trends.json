@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T05:29:40.239885+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-02-15T06:29:12.715802+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 05时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 06时29分]"
         },
         {
           "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 05时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 06时29分]"
         },
         {
           "title": "乌克兰总统泽连斯基：（被问及美国总统特朗普关于乌克兰的最新评论时）“有点”感受到压力。",
@@ -39,8 +39,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 05时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 06时29分]"
         },
         {
           "title": "美国州长：特朗普只是个过客，加州是稳定可靠的伙伴",
@@ -50,8 +50,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 05时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 06时29分]"
         },
         {
           "title": "意大利总理梅洛妮：意大利可能会按观察员身份加入（美国总统特朗普所谓的）和平委员会。",
@@ -61,8 +61,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 05时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 06时29分]"
         },
         {
           "title": "特朗普：北约看在我的份上付了5%国防支出",
@@ -101,8 +101,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 05时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 06时29分]"
         },
         {
           "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
@@ -124,8 +124,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 05时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 06时29分]"
         },
         {
           "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
@@ -135,8 +135,58 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 05时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 06时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "爆",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "8000元一匹的迷你小马一夜爆火",
+          "url": "https://www.toutiao.com/trending/7605777966660013604/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 06时29分]"
+        },
+        {
+          "title": "为什么 cs 只有爆破模式能做成电竞，没有别的电竞模式了吗？",
+          "url": "https://www.zhihu.com/question/2002974293353584386",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 06时29分]"
+        },
+        {
+          "title": "财晓得丨Seedance爆火背后：4分钟读懂中国AI的突围逻辑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32601198",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 06时29分]"
+        },
+        {
+          "title": "马术市场火爆 “名马”标价几十万元",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%9C%AF%E5%B8%82%E5%9C%BA%E7%81%AB%E7%88%86+%E2%80%9C%E5%90%8D%E9%A9%AC%E2%80%9D%E6%A0%87%E4%BB%B7%E5%87%A0%E5%8D%81%E4%B8%87%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时29分"
         }
       ]
     },
@@ -153,8 +203,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 05时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 06时29分]"
         },
         {
           "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
@@ -166,36 +216,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 05时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "爆",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "8000元一匹的迷你小马一夜爆火",
-          "url": "https://www.toutiao.com/trending/7605777966660013604/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 05时29分]"
-        },
-        {
-          "title": "马术市场火爆 “名马”标价几十万元",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%9C%AF%E5%B8%82%E5%9C%BA%E7%81%AB%E7%88%86+%E2%80%9C%E5%90%8D%E9%A9%AC%E2%80%9D%E6%A0%87%E4%BB%B7%E5%87%A0%E5%8D%81%E4%B8%87%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时29分"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 06时29分]"
         }
       ]
     },
@@ -211,8 +233,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 05时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 06时29分]"
         }
       ]
     },
@@ -228,11 +250,12 @@
             16,
             10,
             17,
-            25
+            25,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 05时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 06时29分]"
         }
       ]
     },
@@ -249,8 +272,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 05时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 06时29分]"
         }
       ]
     },
@@ -265,11 +288,12 @@
           "ranks": [
             16,
             14,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时40分 ~ 05时29分]"
+          "appearance_count": 8,
+          "time_info": "[02时40分 ~ 06时29分]"
         }
       ]
     }
