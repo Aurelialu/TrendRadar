@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T21:51:07.329618+08:00",
-  "total_titles_processed": 1412,
+  "generated_at": "2026-02-14T22:32:18.169277+08:00",
+  "total_titles_processed": 1453,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时44分 ~ 21时51分]"
+          "appearance_count": 17,
+          "time_info": "[12时44分 ~ 22时32分]"
         },
         {
           "title": "特朗普将访问委内瑞拉",
@@ -41,8 +41,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时37分 ~ 21时51分]"
+          "appearance_count": 12,
+          "time_info": "[15时37分 ~ 22时32分]"
         },
         {
           "title": "特朗普：泽连斯基必须行动起来，否则将错失好机会",
@@ -99,6 +99,29 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[12时44分 ~ 18时31分]"
+        },
+        {
+          "title": "特朗普：北约看在我的份上付了5%国防支出",
+          "url": "https://news.ifeng.com/c/8qk233NwWlu",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[19时26分 ~ 22时32分]"
+        },
+        {
+          "title": "特朗普下令第二艘航母前往中东",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E7%AC%AC%E4%BA%8C%E8%89%98%E8%88%AA%E6%AF%8D%E5%89%8D%E5%BE%80%E4%B8%AD%E4%B8%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时50分 ~ 22时32分]"
         },
         {
           "title": "特朗普诉BBC诽谤案定于2027年2月开审",
@@ -175,28 +198,6 @@
           "time_info": "[03时45分 ~ 07时36分]"
         },
         {
-          "title": "特朗普下令第二艘航母前往中东",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E7%AC%AC%E4%BA%8C%E8%89%98%E8%88%AA%E6%AF%8D%E5%89%8D%E5%BE%80%E4%B8%AD%E4%B8%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时50分 ~ 21时51分]"
-        },
-        {
-          "title": "特朗普：北约看在我的份上付了5%国防支出",
-          "url": "https://news.ifeng.com/c/8qk233NwWlu",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时26分 ~ 21时51分]"
-        },
-        {
           "title": "报告：特朗普关税政策成本90%由美国消费者和企业买单",
           "url": "https://m.thepaper.cn/newsDetail_forward_32599555",
           "source": "澎湃新闻",
@@ -266,6 +267,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时43分 ~ 04时43分]"
+        },
+        {
+          "title": "意大利总理梅洛妮：意大利可能会按观察员身份加入（美国总统特朗普所谓的）和平委员会。",
+          "url": "https://wallstreetcn.com/livenews/3055527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时27分 ~ 22时32分]"
         },
         {
           "title": "日媒披露特朗普拒绝在中日间力挺日本",
@@ -395,19 +410,6 @@
           "time_info": "[04时43分 ~ 05时41分]"
         },
         {
-          "title": "意大利总理梅洛妮：意大利可能会按观察员身份加入（美国总统特朗普所谓的）和平委员会。",
-          "url": "https://wallstreetcn.com/livenews/3055527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时27分 ~ 21时51分]"
-        },
-        {
           "title": "美国总统特朗普宣扬股市表现和通胀数据。",
           "url": "https://wallstreetcn.com/livenews/3055338",
           "source": "华尔街见闻-快讯",
@@ -443,6 +445,32 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时57分 ~ 04时43分]"
+        },
+        {
+          "title": "美国州长：特朗普只是个过客，加州是稳定可靠的伙伴",
+          "url": "https://wallstreetcn.com/livenews/3055534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 22时32分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：（被问及美国总统特朗普关于乌克兰的最新评论时）“有点”感受到压力。",
+          "url": "https://flash.jin10.com/detail/20260214195624100800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 22时32分]"
         },
         {
           "title": "美国总统特朗普：美国是北约内强大的一部分。",
@@ -527,30 +555,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时57分 ~ 03时45分]"
-        },
-        {
-          "title": "美国州长：特朗普只是个过客，加州是稳定可靠的伙伴",
-          "url": "https://wallstreetcn.com/livenews/3055534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 21时51分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：（被问及美国总统特朗普关于乌克兰的最新评论时）“有点”感受到压力。",
-          "url": "https://flash.jin10.com/detail/20260214195624100800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 21时51分]"
         },
         {
           "title": "特朗普称将访问委内瑞拉",
@@ -800,8 +804,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时38分 ~ 21时51分]"
+          "appearance_count": 11,
+          "time_info": "[16时38分 ~ 22时32分]"
         },
         {
           "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
@@ -936,8 +940,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时44分 ~ 21时51分]"
+          "appearance_count": 17,
+          "time_info": "[12时44分 ~ 22时32分]"
         },
         {
           "title": "美国2月13日当周投资级债券市场销售403亿美元债券，周环比下滑35%（之前一周616亿美元）；发行人19家，之前一周22笔。 其中，谷歌母公司Alphabet inc.出售200亿美元，迪士尼供应40亿美元第二大。 2月份迄今，高评级债券供应1020亿美元，1月份同期供应1233亿美元。 2026年迄今，累计发行3299亿美元，2025年同期为2681亿美元。（彭博）",
@@ -945,11 +949,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 21时51分]"
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 22时32分]"
         },
         {
           "title": "13F报告显示：Maverick Capital Ltd.四季度建仓做多谷歌C、应用材料、波士顿科学、Visa、以及Camden Property。 增持台积电、英伟达、GFL Environment、Carvana。 清仓Kenvue、美国银行、AMD、Danaher、以及Insmed。 减持Nubank、迪士尼、Merit Medical、Acadia Health、Sherwin-Williams。 重仓英伟达、微软、亚马逊、台积电、谷歌C。",
@@ -1000,6 +1005,19 @@
           "time_info": "[03时45分 ~ 05时41分]"
         },
         {
+          "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
+          "url": "https://wallstreetcn.com/livenews/3055539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 22时32分]"
+        },
+        {
           "title": "Gemini3深度思考模型重磅升级",
           "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%B7%B1%E5%BA%A6%E6%80%9D%E8%80%83%E6%A8%A1%E5%9E%8B%E9%87%8D%E7%A3%85%E5%8D%87%E7%BA%A7",
           "source": "bilibili 热搜",
@@ -1034,18 +1052,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时38分 ~ 07时36分]"
-        },
-        {
-          "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
-          "url": "https://wallstreetcn.com/livenews/3055539",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 21时51分]"
         },
         {
           "title": "13F报告显示：索罗斯四季度建仓做多Dayforce、New Gold等。 增持微软、台积电、艺电、亚马逊。 减持Snowflake、Invesco标普500 平权ETF。 清仓Aramark、KKR、iShares 7-10年期美国国债ETF等。 重仓亚马逊、谷歌A、Salesforce、TKO、微软。",
@@ -1092,6 +1098,20 @@
           "time_info": "[12时44分 ~ 20时58分]"
         },
         {
+          "title": "8000元一匹的迷你小马一夜爆火",
+          "url": "https://www.toutiao.com/trending/7605777966660013604/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            6,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时38分 ~ 22时32分]"
+        },
+        {
           "title": "育碧内乱爆发,CEO被喊下台",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350611&amp;topic_name=%E8%82%B2%E7%A2%A7%E5%86%85%E4%B9%B1%E7%88%86%E5%8F%91%2CCEO%E8%A2%AB%E5%96%8A%E4%B8%8B%E5%8F%B0",
           "source": "贴吧",
@@ -1102,19 +1122,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时54分 ~ 07时36分]"
-        },
-        {
-          "title": "8000元一匹的迷你小马一夜爆火",
-          "url": "https://www.toutiao.com/trending/7605777966660013604/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时38分 ~ 21时51分]"
         },
         {
           "title": "“时机尴尬”！外媒爆“美对委军事行动使用AI模型Claude”，涉事美企回应",
@@ -1216,11 +1223,12 @@
           "ranks": [
             15,
             1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时49分 ~ 21时51分]"
+          "appearance_count": 15,
+          "time_info": "[13时49分 ~ 22时32分]"
         },
         {
           "title": "DeepSeek春节再扔王炸？官方披露正测试新模型结构",
@@ -1261,8 +1269,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时52分 ~ 21时51分]"
+          "appearance_count": 14,
+          "time_info": "[14时52分 ~ 22时32分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -1320,8 +1328,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时35分 ~ 21时51分]"
+          "appearance_count": 19,
+          "time_info": "[07时35分 ~ 22时32分]"
         },
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -1345,8 +1353,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时36分 ~ 21时51分]"
+          "appearance_count": 10,
+          "time_info": "[17时36分 ~ 22时32分]"
         },
         {
           "title": "中国持续减持美债意味着什么",
@@ -1518,11 +1526,12 @@
           "url": "https://www.toutiao.com/trending/7606664927398333971/",
           "source": "今日头条",
           "ranks": [
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时57分 ~ 21时51分]"
+          "appearance_count": 6,
+          "time_info": "[20时57分 ~ 22时32分]"
         },
         {
           "title": "金价本周涨超2%",
